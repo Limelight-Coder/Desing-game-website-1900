@@ -1,0 +1,79 @@
+* {
+    margin: 0;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+    box-sizing: border-box;
+    resize: none;
+}
+
+body {
+
+    background: #0F2027;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #2C5364, #203A43, #0F2027);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #2C5364, #203A43, #0F2027); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    
+  }
+
+.header {
+    padding: 25px;
+    background: 3px #0d2136;
+    color: white;
+    font-size: 16px;
+    border: 3px #FFFFFF;
+    margin: #0d2136;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+
+  }
+
+  a {
+    border: 2px;
+  }
+
+
+b {
+    resize: none;
+    display: inline;
+}
+    
+.image {
+    resize: none;
+    height: 240px;
+    width: 950x;
+    overflow: hidden;
+    position: relative;
+    top: -500px;
+    right: 270px;
+    margin: 6px;
+    
+    
+}
+
+.text {
+    resize: none;
+    position: relative;
+    top: -37px;
+}
+/* ran out of class names at this point */
+.the {
+    resize: none;
+    position: relative;
+    left: 200px;
+    margin: 46px;
+}
+
+.title{
+    resize: none;
+}
+
+img:hover {-webkit-filter: brightness(150%); }
+
+em:hover {-webkit-filter: brightness(150%); }
+
+
+
+
+
+
+
+
+
+  

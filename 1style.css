@@ -1,0 +1,86 @@
+* {
+   resize: none;
+    margin:o;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+    box-sizing: border-box;
+    resize: none;
+}
+
+
+
+.header {
+    padding: 25px;
+    background: 3px #0d2136;
+    color: white;
+    font-size: 16px;
+    border: 3px #FFFFFF;
+    margin: #0d2136;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+
+  }
+
+  
+  
+body {
+
+  background: #0F2027;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #2C5364, #203A43, #0F2027);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #2C5364, #203A43, #0F2027); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  
+}
+  a {
+    border: 2px;
+  }
+
+
+.space {
+  margin-top: -662px ;
+  margin-bottom: 2.5em;
+}
+
+
+
+
+  .img {
+    resize: none;
+    position: absolute;
+    margin-right: 36px;
+    top: 230px;
+    
+    left: 400px;
+    -webkit-filter: drop-shadow(5px 5px 0 rgb(255, 0, 0))
+                  drop-shadow(-5px -5px 0 rgb(255, 0, 0));
+  filter: drop-shadow(5px 5px 0 rgb(255, 0, 0)) 
+          drop-shadow(-5px -5px 0 rgb(255, 0, 0));
+
+    }
+
+
+    .hover_img {
+      resize: none;
+
+      position: absolute;
+      
+      top: 0px;
+      
+      left: 0px;
+      
+
+      display: none;
+      
+      }
+
+
+      .img:hover .hover_img {
+
+        display: inline;
+        
+        }
+  
+.img {
+position: absolute;
+right: 6%;
+top: 16%;
+}
+
+
